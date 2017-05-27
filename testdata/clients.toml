@@ -1,0 +1,18 @@
+# The list of front clients
+[[from]]
+client_name = "elisescu"
+public_key = """
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCb17tBTvEZEu2apkaqk7EGuL19wb4vJjLj0wSho4iCcyDT08t3dDFHukA6V15kBfZjSkTo9Mhr5Lcw+yUMGLCHPAIO60c+bRebEpGNyu4SAECFUW7xRrNk3DUcZc4E0HU8zqEkeBCtjOzE7nEMDHPLX36iFkgpThec0P61NOlvOs7RL4IECYcjeyUnYVddDNUS4/vYXr1v4pMSuQB2dGJ0rMqn2hnMudHNacBbPw4GrWwJITgar5eFlg+PtcedwfvID60IE4OZOgdJ5bPOHnk9ua1iNCQSd6ngn/dafAtaWgd15e2hdYwRSNoXL4Wc509nWTywZH/SSlIfFMy14Fll elisescu@thinkAir.local
+"""
+
+# The list of back clients
+[[to]]
+client_name = "pi"
+public_key = """
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC9IGMbSebXHScSsHxscLjPQL7Vb/+rOUsydl6kSUZ4YCljXPOMbeLng+lu0UF578OKu4GxL1LU/B/c3WZWHKfTJnwJtpcALp2vsMiIJRby9c/IbiUCQFxkNh3hu9JZpUWGPeprNP1Dt9RL92yILVoHQcXDJGAtLSfaKA1ctPw/nofYjWJ4YWL4JxFzaH5Ts0TQawiqFEgdcOqQM22MOcKhEsKSXAbBBo7wDDXDq8wb91uFiYT0teQwO/4hOfCUAvfDOiY1I7n3hmdWAUWuDOTT+f+9o2VtPBuRPaaOdTf5YitQ1gYVx/skMveIPRbGJxuzOjoOhboz67+BAxXa3Yez elisescu@thinkAir.local
+"""
+[[to]]
+client_name = "raspberrypi_2"
+public_key = """
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDAEqSrg/kQTQN0r51HyEfRKq1EZBmz3yegpNOtdaJbW1eI4i7n4GiGbWvQfiQf/lhbyftrxBuGlavmgucEYxuH+f2XqbJYoHwXwYyG6yi6cjDkXutwyMkKp3kEvk6tn3xTHBd03J/e7Yoogtp3gCnoX/aZekyhaidc/l9QNJ0IvDt5x32OPbDdY/Xp69dgp5/wcQufRYtZScs/aKvCYrWYuaiW2r8V/GNLvqpJ/AjP4GTJCHrtUkswFQAcUaBHjtsfPxrM1ftTPu3OzWt2FeFD4RtUHcIUsNCxn/aMQFG28M8HMJ1ulzWBEAb4LMB/h2U4nFh1gNrHUeZhbsq6MbYn
+"""

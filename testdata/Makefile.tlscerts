@@ -1,0 +1,6 @@
+
+all: key.pem cert.pem
+
+key.pem cert.pem: openssl.config
+	openssl req -config openssl.config -x509 -newkey rsa:4096  -passout pass:Test -keyout key.pem -out cert.pem -days 365
+
